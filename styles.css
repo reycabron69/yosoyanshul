@@ -38,8 +38,8 @@ h4 {
 
 .topcontainer {
   position: absolute;
-  left: 23%;
-  top: 10%;
+ margin-top: 25%;
+  margin-left: 28%;
 }
 
 .dp {
