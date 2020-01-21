@@ -39,7 +39,7 @@ h4 {
 .topcontainer {
   position: absolute;
   left: 29%;
-  top: 10%;
+  top: 200px;
 }
 
 .dp {
@@ -58,7 +58,6 @@ h4 {
 
 .skillpic {
   float: left;
-  ;
   border-radius: 100%;
   width: 35%;
   height: auto;
